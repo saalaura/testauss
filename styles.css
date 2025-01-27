@@ -1,0 +1,71 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E3D5CA;
+}
+
+.nav {
+    background-color: #E3D5CA;
+    font-family: 'Libre Baskerville', serif;
+    height: 100px;
+}
+
+.kuva {
+    width: 80px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    position: left;
+}
+
+.nav a {
+    color: #fcf8f8;
+    font-weight: Light;
+
+}
+.hero {
+
+    position: relative;
+    text-align: left;
+    background-color: #E3D5CA;
+    padding: -50px;
+    margin: 30; 
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+
+}
+.content-box {
+    background-color: #D6CCC2;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin:30px auto;
+    z-index: 1;
+    position: center;
+    width: 1300px;
+    
+}
+
+.container {
+
+margin: 50;
+text-align: left;
+}
+
+
+.footer {
+    background-color: #D5BDAF;
+    padding: 20px;
+    text-align: right;
+    font-family: 'Libre Baskerville', serif;
+    color: #fcf8f8;
+}
+.footer a {
+    color: #fcf9f9;
+    text-decoration: none;
+}
+.aukiolo {
+    text-align: left;
+    font-size: large;
+}
